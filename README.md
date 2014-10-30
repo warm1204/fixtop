@@ -1,4 +1,4 @@
 fixtop
 ======
 
-A small JS plug-in, for fixed top
+A small JS effect, for fixed top
